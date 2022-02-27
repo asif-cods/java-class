@@ -1,8 +1,6 @@
-package java1;
+package javapro;
 
-
-
-public class f1 {
+public class helloworld {
 
 	/**
 	 * @param args
